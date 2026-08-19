@@ -1,1 +1,11 @@
-Hi Bala Ganeshan
+Hi Bala Ganeshan !!!
+
+In this : we going to see some comments.
+    
+    1. git --version = To check the version.
+    2. git clone origin link = To import the repo from the github.
+    3. cd filename = cd means change directory , it use to navigate to which folder we need to work.
+    4. git status = It is used to check the file status ( eg : untracked , staging area , modified).
+    5. git add filename = its status is added but it is only in the working area it called staging area.
+    6. git commit -m "some command" = This comment used to move the added file from staging area to copygit.
+    7. git push origin main = to move the file from copygit to github.
