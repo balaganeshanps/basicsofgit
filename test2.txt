@@ -1,0 +1,7 @@
+How to create a new file 
+    * If we creates a new file in the working folder , now its status is Untracked.
+    * Then put the comment git add test2.txt (filename = test2.txt).
+    * now its status is added but it is only in the working area it called staging area.
+    * Atlast we need to commit this file , so that this file shown in the copygit.
+    * The command we need use to commit is ' git commit -m "some command" '
+    
